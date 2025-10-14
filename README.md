@@ -1,8 +1,12 @@
 # ISMED Projekt 2 "MPR Viewer App"
 
+Projekt wykonany w trakcie kursu Informatyczne Systemy Medyczne (ISMED) w czasie studiów na kierunku
+Inżynieria Biomedyczna na Politechnice Warszawskiej, Wydziale Elektroniki i Technik Informacyjnych.
+
 ## Autorzy
 
-Emilia Poleszak, Anna Czarkowska
+- Emilia Poleszak (https://github.com/Emilia-Poleszak)
+- Anna Czarkowska (https://github.com/czarkosia)
 
 ## Uruchomienie programu
 
@@ -53,4 +57,5 @@ korzysta z algorytmu Bresenham'a.
 ## Zbiór danych
 
 - https://www.ire.pw.edu.pl/~trubel/ismed/files/data/dicom_cranium_ct.zip
+
 - https://www.dicomlibrary.com/?manage=1b9baeb16d2aeba13bed71045df1bc65
